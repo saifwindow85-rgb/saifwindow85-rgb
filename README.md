@@ -343,7 +343,7 @@ A system is not finished because the code compiles.
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+  www.linkedin.com/in/saif-bensumieda-941702437
 <br><br>
 
 `C#` · `.NET` · `ASP.NET Core` · `EF Core` · `SQL Server`
